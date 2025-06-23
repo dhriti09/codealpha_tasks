@@ -26,7 +26,7 @@ This is a stylish, neon-themed calculator made with **HTML, CSS, and JavaScript*
 ## 🚀 Demo
 
 Want a live preview? You can enable GitHub Pages and share a link like:  
-`https://dhriti09.github.io/codealpha_tasks/`
+https://github.com/dhriti09/codealpha_tasks/blob/main/calculator.html
 
 ---
 
